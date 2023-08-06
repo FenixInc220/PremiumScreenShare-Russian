@@ -21,7 +21,6 @@
 <h1>
     <img src="img/Permission.png" alt="Permission" width="400" /> 
 </h1>
---------
  
 # English description
  Stream in *SUPREME* quality and *ULTRA HIGH* FPS.
