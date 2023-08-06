@@ -1,2 +1,26 @@
-# PremiumScreenShare Russian translation for better discord
- Сделайте вашу демонстацию экрана в высоком качестве и в высоких FPS без Disocrd Nitro
+# PremiumScreenShare Russian translation for Better discord
+
+ # Русское описание
+ Транслируйте в *ВЫСШЕМ* качестве и *УЛЬТРАВЫСКОМ* FPS.
+
+Максимальное качество в котором можно стримить: 2160p с 360 кадров в секунду.
+
+Этот плагин совместим с такими плагинами, как HideDisabledEmojis или Freemoji.
+
+[Создатель плагина]([https://github.com/Tharki-God)
+
+[Оригинальный плагин автора](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
+
+[Репозиторий плагина](https://github.com/Tharki-God/BetterDiscordPlugins)
+ # English description
+ Stream in *SUPREME* quality and *ULTRA HIGH* FPS.
+
+The maximum capability is 2160p with 360 FPS.
+
+This plugin is compatible with plugins like HideDisabledEmojis or Freemoji.
+
+[Plugin creator]([https://github.com/Tharki-God)
+
+[Author's original plugin](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
+
+[Plugin repository](https://github.com/Tharki-God/BetterDiscordPlugins)
