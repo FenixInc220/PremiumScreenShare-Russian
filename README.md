@@ -22,7 +22,8 @@
     <img src="img/Permission.png" alt="Permission" width="400" /> 
 </h1>
 ------------
- # English description
+ 
+# English description
  Stream in *SUPREME* quality and *ULTRA HIGH* FPS.
 
 The maximum capability is 2160p with 360 FPS.
