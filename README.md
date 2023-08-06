@@ -14,7 +14,7 @@
 [Репозиторий плагина](https://github.com/Tharki-God/BetterDiscordPlugins)
 Разрешение создателя на публикацию плагина:
 <h1>
-    <img src="img/Permission.png" alt="Permission" width="400" /> 
+    <img src="Permission.png" alt="Permission" width="400" /> 
 </h1>
 ------------
  # English description
