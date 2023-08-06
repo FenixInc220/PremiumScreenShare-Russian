@@ -12,6 +12,11 @@
 [Оригинальный плагин автора](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
 
 [Репозиторий плагина](https://github.com/Tharki-God/BetterDiscordPlugins)
+Разрешение создателя на публикацию плагина:
+<h1>
+    <img src="Permission.png" alt="Permission" width="400" /> 
+</h1>
+------------
  # English description
  Stream in *SUPREME* quality and *ULTRA HIGH* FPS.
 
