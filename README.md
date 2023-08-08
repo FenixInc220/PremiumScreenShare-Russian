@@ -11,7 +11,7 @@
     <img src="img/Discord.png" alt="Discord" width="400" /> 
 </h1>
 
-[Создатель плагина]([https://github.com/Tharki-God)
+[Создатель плагина](https://github.com/Tharki-God)
 
 [Оригинальный плагин автора](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
 
@@ -33,7 +33,7 @@ This plugin is compatible with plugins like HideDisabledEmojis or Freemoji.
     <img src="img/Discord.png" alt="Discord" width="400" /> 
 </h1>
 
-[Plugin creator]([https://github.com/Tharki-God)
+[Plugin creator](https://github.com/Tharki-God)
 
 [Author's original plugin](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
 
