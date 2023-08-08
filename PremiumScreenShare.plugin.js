@@ -9,6 +9,7 @@
  * @description Сделайте вашу демонстацию экрана в высоком качестве и в высоких FPS без Disocrd Nitro.
  * @website https://tharki-god.github.io/
  * @source https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare
+ * @updateUrl https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
