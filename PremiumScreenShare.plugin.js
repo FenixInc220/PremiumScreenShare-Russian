@@ -582,7 +582,7 @@ module.exports = (() => {
               shown: false,
             }).append(
               new RadioGroup(
-                "Resolution",
+                "Разрешение",
                 "Изменить предустановленное разрешение лучшей читаемости",
                 this.settings["betterReadability"]["resolution"],
                 resoWithSource,
