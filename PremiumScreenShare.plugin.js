@@ -49,58 +49,57 @@ module.exports = (() => {
     changelog: [
       {
         title: "v0.0.1",
-        items: ["Idea in mind"],
+        items: ["Идея в уме"],
       },
       {
         title: "v0.0.5",
-        items: ["Base Model"],
+        items: ["Базовая модель"],
       },
       {
-        title: "Initial Release v1.0.0",
+        title: "Первоначальный выпуск v1.0.0",
         items: [
-          "This is the initial release of the plugin :)",
-          "Stream those tiddies real nice (╹ڡ╹ )",
+          "Это первоначальный релиз плагина :)",
         ],
       },
       {
         title: "v1.0.1",
-        items: ["Library Handler"],
+        items: ["Обработчик библиотеки"],
       },
       {
         title: "v1.0.3",
-        items: ["Refractor"],
+        items: ["Рефрактор"],
       },
       {
         title: "v1.0.4",
-        items: ["Module Name"],
+        items: ["Имя модуля"],
       },
       {
         title: "v1.0.5",
-        items: ["Added option for more fps"],
+        items: ["Добавлена опция для большего количества кадров в секунду"],
       },
       {
         title: "v2.0.0",
-        items: ["Truely premium and cotains feature which nitro don't"],
+        items: ["Действительно премиальный и содержит функцию, которой нет нитро."],
       },
       {
         title: "v2.0.1",
-        items: ["removed useless code"],
+        items: ["удален бесполезный код"],
       },
       {
         title: "v2.0.2",
-        items: ["optimization"],
+        items: ["оптимизация"],
       },
       {
         title: "v2.0.6",
-        items: ["Replaced Dropdowns with RadioGroup because Zlib Broken"],
+        items: ["Заменены выпадающие списки на RadioGroup, потому что Zlib сломан"],
       },
       {
         title: "v2.2.1",
-        items: ["Refractor and fixed some bugs"],
+        items: ["Рефрактор и исправлены некоторые ошибки"],
       },
       {
         title: "v2.2.3",
-        items: ["Corrected text."],
+        items: ["Исправленный текст"],
       },
     ],
     main: "PremiumScreenShare.plugin.js",
@@ -122,7 +121,7 @@ module.exports = (() => {
     load() {
       for (const Lib of RequiredLibs.filter(lib => !window.hasOwnProperty(lib.window)))
         BdApi.showConfirmationModal(
-          "Library Missing",
+          "Библиотека отсутствует",
           `Отсутствует подключаемый модуль библиотеки (${Lib.window}), необходимый для ${config.info.name}. Нажмите «Загрузить сейчас», чтобы установить его.`,
           {
             confirmText: "Скачать сейчас",
@@ -155,7 +154,7 @@ module.exports = (() => {
     errorDownloadZLib(Lib) {
       const { shell } = require("electron");
       BdApi.showConfirmationModal(
-        "Error Downloading",
+        "Ошибка загрузки",
         [
           `${Lib.window} Загрузка не удалась. Вручную установите библиотеку плагинов по ссылке ниже.`,
         ],
