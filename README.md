@@ -1,4 +1,4 @@
-# PremiumScreenShare Russian translation for Better discord
+# PremiumScreenShare Russian 
 
  # Русское описание
  Транслируйте в *ВЫСШЕМ* качестве и *УЛЬТРА ВЫСКОМ* FPS.
