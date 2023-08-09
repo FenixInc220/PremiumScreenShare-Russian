@@ -16,11 +16,6 @@
 [Оригинальный плагин автора](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
 
 [Репозиторий плагина](https://github.com/Tharki-God/BetterDiscordPlugins)
-
-Разрешение создателя на публикацию перевода:
-<h1>
-    <img src="img/Permission.png" alt="Permission" width="400" /> 
-</h1>
  
 # English description
  Stream in *SUPREME* quality and *ULTRA HIGH* FPS.
@@ -38,9 +33,3 @@ This plugin is compatible with plugins like HideDisabledEmojis or Freemoji.
 [Author's original plugin](https://tharki-god.github.io/BetterDiscordPlugins/PremiumScreenShare.plugin.js)
 
 [Plugin repository](https://github.com/Tharki-God/BetterDiscordPlugins)
-
-Creator's permission to publish the translation:
-
-<h1>
-    <img src="img/Permission.png" alt="Permission" width="400" /> 
-</h1>
